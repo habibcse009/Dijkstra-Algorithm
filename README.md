@@ -73,5 +73,32 @@ public class Dijkstra {
 ```
 #### Output: 
 ```
+Enter the number of nodes:
+3
+Enter the Adjacency matrix:
+Enter the weight of the path between nodes 1 and 1: 
+2
+Enter the weight of the path between nodes 1 and 2: 
+3
+Enter the weight of the path between nodes 1 and 3: 
+5
+Enter the weight of the path between nodes 2 and 1: 
+4
+Enter the weight of the path between nodes 2 and 2: 
+3
+Enter the weight of the path between nodes 2 and 3: 
+4
+Enter the weight of the path between nodes 3 and 1: 
+3
+Enter the weight of the path between nodes 3 and 2: 
+2
+Enter the weight of the path between nodes 3 and 3: 
+1
+Enter the source matrix:
+3
+
+Shortest path:
+3->1,cost=3
+3->2,cost=2
 
 ```
